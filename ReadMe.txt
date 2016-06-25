@@ -1,6 +1,8 @@
 Example from "Open Source Integration with Apache Camel" Article
 ========================================================
 
+add sourcetree1
+
 To run this example project build the project and execute the Camel routes 
 according to the steps below. 
 
